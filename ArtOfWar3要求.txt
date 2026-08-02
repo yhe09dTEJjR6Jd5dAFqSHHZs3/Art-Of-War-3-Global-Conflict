@@ -13,12 +13,13 @@ ArtOfWar3.py不得包含与实际运行无关的内容。
 点击“文件”按钮→进入“文件”模式→检查文件完整性→下载、补全或替换缺失及损坏的文件→退出“文件”模式；
 ESC→退出“文件”模式；
 
-点击“人”按钮→人玩游戏（战争艺术3：全球冲突，Art Of War 3: Global Conflict）；
+点击“人”按钮→人玩战争艺术3：全球冲突（Art Of War 3: Global Conflict）；
 ESC→退出“人”模式；
 
 点击“升级”按钮→进入“升级”模式→升级经验池和AI模型→退出“升级”模式；
 ESC→退出“升级”模式；
 
-点击“AI”按钮→AI玩游戏（战争艺术3：全球冲突，Art Of War 3: Global Conflict）；
+点击“AI”按钮→AI玩战争艺术3：全球冲突（Art Of War 3: Global Conflict）；
 ESC→退出“AI”模式；
 
+AI玩战争艺术3：全球冲突的水平需超越职业玩家。
